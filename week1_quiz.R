@@ -27,13 +27,14 @@ print("answer to question 1 is")
 print(ans1)
 
 #------------#
-# Question 3 #
+# Question 2 #
 #------------#
 # Use the data you loaded from Question 1. Consider the variable FES in the code
 # book. Which of the "tidy data" principles does this variable violate? 
 # Wrong:
 # - Each tidy data table contains information about only one type of observation.
 # - Each variable in a tidy data set has been transformed to be interpretable. 
+# - Tidy data has no missing values
 
 #------------#
 # Question 3 #
